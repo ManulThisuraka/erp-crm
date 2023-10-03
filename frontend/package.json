@@ -14,7 +14,7 @@
     "cross-env": "7.0.3",
     "currency.js": "2.0.4",
     "dayjs": "1.10.4",
-    "framer-motion": "4.1.13",
+    "framer-motion": "4.1.17",
     "history": "4.10.1",
     "hoist-non-react-statics": "3.3.2",
     "just-compare": "^2.3.0",
